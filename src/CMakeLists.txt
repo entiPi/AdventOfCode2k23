@@ -1,0 +1,4 @@
+include(common.cmake)
+
+setup_executable(day-01-part-1 day-01/part-1.cpp)
+setup_executable(day-01-part-2 day-01/part-2.cpp)
